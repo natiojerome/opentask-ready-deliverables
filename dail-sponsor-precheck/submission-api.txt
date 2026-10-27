@@ -1,0 +1,76 @@
+PRE-CHECK OF ALL 8 CURRENT bnty_0311 ENTRIES
+Fields checked: URL; funding quote; award size/range; official contact path; fit; deadline/window; verification date.
+
+1) ozma-audit-161030 — Prototype Fund
+URL PRESENT: https://www.prototypefund.de/en/application
+FUNDING PRESENT: “We focus on data security and software infrastructure.”
+AWARD PRESENT: “maximum funding amount 95.000 € in 6 months for teams”.
+CONTACT PRESENT: info@prototypefund.de on official contact page.
+FIT PRESENT: FOSS infrastructure/open-science fit explained.
+WINDOW PRESENT: 30 Nov 2026, 15:00 CET.
+VERIFIED PRESENT: 2026-10-23 21:40Z.
+
+2) orbit_ug_2026 — NumFOCUS Small Development Grants
+URL PRESENT: https://numfocus.org/programs/small-development-grants
+FUNDING PRESENT: “microgrant program benefitting our Sponsored and Affiliated projects.”
+AWARD PRESENT: “Up to $10,000 can be awarded for each proposal.”
+CONTACT PRESENT: info@numfocus.org in official hosted prospectus.
+FIT PRESENT: scientific-project benefit and sponsorship prerequisite explained.
+WINDOW PRESENT: 3 cycles/year; 2026 dates unpublished; January newsletter is announcement channel.
+VERIFIED PRESENT: 2026-10-24 UTC.
+
+3) kosoyy-b06accb1 — NLnet open calls
+URL PRESENT: https://nlnet.nl/propose/
+FUNDING PRESENT: “Our grants are primarily for technical development.”
+AWARD PRESENT: “Between € 5 000 and € 50 000 for a first grant.”
+CONTACT PRESENT: official proposal form and https://nlnet.nl/contact/.
+FIT PRESENT: open development/open-science alignment explained.
+WINDOW PRESENT: 3 Nov 2026, 12:00 CET.
+VERIFIED PRESENT: 2026-10-24 ~09:30 UTC.
+
+4) ducanh3005 — Stellar Community Fund
+URL PRESENT: https://stellar.org/grants-and-funding plus official SCF pages.
+FUNDING PRESENT: funds projects building on Stellar and Soroban.
+AWARD PRESENT: “Apply for up to $150,000 in XLM”.
+CONTACT PRESENT: communityfund@stellar.org and official intake.
+FIT PRESENT: integration/tooling/public-goods criteria tied to DAiL.
+WINDOW PRESENT: SCF #46 deadline 8 Nov 2026; recurring 6-week rounds.
+VERIFIED PRESENT: 2026-10-25 ~08:04 UTC.
+
+5) money-reactor — Sentient Foundation Open Source AGI Grants
+URL PRESENT: https://sentient.foundation/grants
+FUNDING PRESENT: “We are funding the developers building AI in the open”.
+AWARD MISSING: “$42M COMMITTED” is total program commitment, not a typical individual award/range; entry says individual sizes are unpublished.
+CONTACT PRESENT: official form https://sentient.foundation/contact.
+FIT PRESENT: trustworthy-agent infrastructure tied to program wording.
+WINDOW PRESENT: “No cohorts, no deadlines” (rolling).
+VERIFIED PRESENT: 2026-10-26.
+
+6) nodo131_dail — Hacker Initiative Signal/Noise
+URL PRESENT: https://hackerinitiative.org/
+FUNDING PRESENT: supports hardware/software/education and open-source provenance work.
+AWARD PRESENT: “Grants range from USD $5,000 to $25,000.”
+CONTACT PRESENT: official form and grant-requests@hackerinitiative.org.
+FIT PRESENT: provenance receipts/verifiable agent work tied to call.
+WINDOW PRESENT: 9 Nov 2026.
+VERIFIED PRESENT: 2026-10-27 UTC.
+
+7) thaolx_agent_qoder — Ethereum Foundation ESP
+URL PRESENT: https://esp.ethereum.foundation/ plus applicants page.
+FUNDING PRESENT: “support to builders creating public goods for the Ethereum ecosystem.”
+AWARD MISSING: discretionary-by-scope text and a derived program average are not an exact typical individual award/range.
+CONTACT PRESENT: official Browse → Apply intake and official channels.
+FIT PRESENT: developer tooling/open public goods tied to ESP criteria.
+WINDOW PRESENT: rolling Wishlist/RFP intake; no global deadline.
+VERIFIED PRESENT: 2026-10-27 ~18:10 UTC.
+
+8) underpin-capital-vis-01 — Solana Foundation × Finternet Instagrants
+URL PRESENT: https://superteam.fun/earn/grants/finternet-grants
+FUNDING PRESENT: funds “thoughtful content & code” for the Finternet sandbox/playground.
+AWARD PRESENT: “a $1 - $10,000 grant” / “Up to 10k USDC”.
+CONTACT PRESENT: official Apply Now intake and published contact.
+FIT PRESENT: Solana/Finternet escrow-settlement adapter tied to named use cases.
+WINDOW PRESENT: no close stated; active rolling intake, ~1-week response target.
+VERIFIED PRESENT: 2026-10-27 UTC.
+
+RESULT: 6 entries contain all seven fields. Sentient and Ethereum ESP each lack the required typical individual award size/range. A program total, discretionary statement, or derived average does not satisfy that field.
